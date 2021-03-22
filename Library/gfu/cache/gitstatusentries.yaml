@@ -13,24 +13,270 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-22T13:44:16.315-05:00
+  lastUpdatedAtString: 2021-03-22T15:30:50.492-05:00
   initializedAtString: 2021-03-22T13:30:21.238-05:00
   entries:
-  - path: .idea\.name
-    fullPath: E:\Documents\Unity Projects\Egress\.idea\.name
-    projectPath: .idea\.name
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: E:\Documents\Unity Projects\Egress\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: E:\Documents\Unity Projects\Egress\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: E:\Documents\Unity Projects\Egress\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Player\PlayerMovement.cs
+    fullPath: E:\Documents\Unity Projects\Egress\Assets\Scripts\Player\PlayerMovement.cs
+    projectPath: Assets\Scripts\Player\PlayerMovement.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ConsoleProDebug.csproj
+    fullPath: E:\Documents\Unity Projects\Egress\ConsoleProDebug.csproj
+    projectPath: ConsoleProDebug.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ConsoleProRemote.csproj
+    fullPath: E:\Documents\Unity Projects\Egress\ConsoleProRemote.csproj
+    projectPath: ConsoleProRemote.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Egress.sln.DotSettings.user
+    fullPath: E:\Documents\Unity Projects\Egress\Egress.sln.DotSettings.user
+    projectPath: Egress.sln.DotSettings.user
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: .idea\vcs.xml
-    fullPath: E:\Documents\Unity Projects\Egress\.idea\vcs.xml
-    projectPath: .idea\vcs.xml
+  - path: EnhancedHierarchyEditor.csproj
+    fullPath: E:\Documents\Unity Projects\Egress\EnhancedHierarchyEditor.csproj
+    projectPath: EnhancedHierarchyEditor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: E:\Documents\Unity Projects\Egress\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\03\036a717cd72fadb4a878fdae9ca6caa3
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\03\036a717cd72fadb4a878fdae9ca6caa3
+    projectPath: Library\Artifacts\03\036a717cd72fadb4a878fdae9ca6caa3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: .idea\workspace.xml
-    fullPath: E:\Documents\Unity Projects\Egress\.idea\workspace.xml
-    projectPath: .idea\workspace.xml
+  - path: Library\Artifacts\0e\0e9ef4f56d15806b78fc8e58349c808c
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\0e\0e9ef4f56d15806b78fc8e58349c808c
+    projectPath: Library\Artifacts\0e\0e9ef4f56d15806b78fc8e58349c808c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\16\16ce5b0c8aa09ac7f555b5109129fe1b
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\16\16ce5b0c8aa09ac7f555b5109129fe1b
+    projectPath: Library\Artifacts\16\16ce5b0c8aa09ac7f555b5109129fe1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\266ba2063248ce0278cde1986b14e3b2
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\26\266ba2063248ce0278cde1986b14e3b2
+    projectPath: Library\Artifacts\26\266ba2063248ce0278cde1986b14e3b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3a\3a21ccecf6e9bd54b7ed9bdb37e11960
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\3a\3a21ccecf6e9bd54b7ed9bdb37e11960
+    projectPath: Library\Artifacts\3a\3a21ccecf6e9bd54b7ed9bdb37e11960
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\47\477333c6f545092577d0db4057ec17aa
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\47\477333c6f545092577d0db4057ec17aa
+    projectPath: Library\Artifacts\47\477333c6f545092577d0db4057ec17aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\496e8dd39ff727edee52cbd0caef33bb
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\49\496e8dd39ff727edee52cbd0caef33bb
+    projectPath: Library\Artifacts\49\496e8dd39ff727edee52cbd0caef33bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4a074a998656abe8bbadc1ff01a8b246
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\4a\4a074a998656abe8bbadc1ff01a8b246
+    projectPath: Library\Artifacts\4a\4a074a998656abe8bbadc1ff01a8b246
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5c\5c222bd8b26f3df8687ab674dad821e7
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\5c\5c222bd8b26f3df8687ab674dad821e7
+    projectPath: Library\Artifacts\5c\5c222bd8b26f3df8687ab674dad821e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\61\611482ac0e2886593bc833e065a1219c
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\61\611482ac0e2886593bc833e065a1219c
+    projectPath: Library\Artifacts\61\611482ac0e2886593bc833e065a1219c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\62\62819221ac2d759e392297748aeee685
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\62\62819221ac2d759e392297748aeee685
+    projectPath: Library\Artifacts\62\62819221ac2d759e392297748aeee685
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\69\697c403095b94025152c5663fb5f129b
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\69\697c403095b94025152c5663fb5f129b
+    projectPath: Library\Artifacts\69\697c403095b94025152c5663fb5f129b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6e\6ea3bbdf76a187bf807ba3cb43fc6d39
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\6e\6ea3bbdf76a187bf807ba3cb43fc6d39
+    projectPath: Library\Artifacts\6e\6ea3bbdf76a187bf807ba3cb43fc6d39
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\76\76ed06c194bcca7cdc1783bfef75916c
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\76\76ed06c194bcca7cdc1783bfef75916c
+    projectPath: Library\Artifacts\76\76ed06c194bcca7cdc1783bfef75916c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\77\770404cc4988c120d2ced2c223e4efee
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\77\770404cc4988c120d2ced2c223e4efee
+    projectPath: Library\Artifacts\77\770404cc4988c120d2ced2c223e4efee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7a\7a82d732ef7941dbf495d8d112ca6101
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\7a\7a82d732ef7941dbf495d8d112ca6101
+    projectPath: Library\Artifacts\7a\7a82d732ef7941dbf495d8d112ca6101
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8c73962426108c50bcb81ed48d6ba03e
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\8c\8c73962426108c50bcb81ed48d6ba03e
+    projectPath: Library\Artifacts\8c\8c73962426108c50bcb81ed48d6ba03e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\937cdecf6ed47c3a906cc30b3d855d31
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\93\937cdecf6ed47c3a906cc30b3d855d31
+    projectPath: Library\Artifacts\93\937cdecf6ed47c3a906cc30b3d855d31
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9bc9e2fbd9fddb2a7c5fb4fd23b62429
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\9b\9bc9e2fbd9fddb2a7c5fb4fd23b62429
+    projectPath: Library\Artifacts\9b\9bc9e2fbd9fddb2a7c5fb4fd23b62429
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9e\9e510d891301b9d8e538b4f92b031d27
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\9e\9e510d891301b9d8e538b4f92b031d27
+    projectPath: Library\Artifacts\9e\9e510d891301b9d8e538b4f92b031d27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\aa\aa09471acce21ff3a9c269f940897a3f
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\aa\aa09471acce21ff3a9c269f940897a3f
+    projectPath: Library\Artifacts\aa\aa09471acce21ff3a9c269f940897a3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b9\b9ac7b6473b04d22e3d9ecef2dbda9ec
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\b9\b9ac7b6473b04d22e3d9ecef2dbda9ec
+    projectPath: Library\Artifacts\b9\b9ac7b6473b04d22e3d9ecef2dbda9ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c6add429dfd50da2ef1f3b8574e8a0f7
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\c6\c6add429dfd50da2ef1f3b8574e8a0f7
+    projectPath: Library\Artifacts\c6\c6add429dfd50da2ef1f3b8574e8a0f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\caf977de9fcbe0cd31f92d9fcf9eb6e0
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\ca\caf977de9fcbe0cd31f92d9fcf9eb6e0
+    projectPath: Library\Artifacts\ca\caf977de9fcbe0cd31f92d9fcf9eb6e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cd\cd715509a3d47db5dc95cb474c24fcdc
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\cd\cd715509a3d47db5dc95cb474c24fcdc
+    projectPath: Library\Artifacts\cd\cd715509a3d47db5dc95cb474c24fcdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d0a7c05d7fd9b3887f8ff13a6e415065
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\d0\d0a7c05d7fd9b3887f8ff13a6e415065
+    projectPath: Library\Artifacts\d0\d0a7c05d7fd9b3887f8ff13a6e415065
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d6\d67285fe3e3b42b9e2fd0933478dc9fc
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\d6\d67285fe3e3b42b9e2fd0933478dc9fc
+    projectPath: Library\Artifacts\d6\d67285fe3e3b42b9e2fd0933478dc9fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d9\d9e8af607d9820c02ae8ed702298392f
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\d9\d9e8af607d9820c02ae8ed702298392f
+    projectPath: Library\Artifacts\d9\d9e8af607d9820c02ae8ed702298392f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\db\dbf1497c9b9dc6abf97e6a316dfda257
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\db\dbf1497c9b9dc6abf97e6a316dfda257
+    projectPath: Library\Artifacts\db\dbf1497c9b9dc6abf97e6a316dfda257
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\ea94fe924a17de0295ffa1a293d066e3
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\ea\ea94fe924a17de0295ffa1a293d066e3
+    projectPath: Library\Artifacts\ea\ea94fe924a17de0295ffa1a293d066e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f5\f52c03dc2ef5650e6553b1a599c452fb
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\f5\f52c03dc2ef5650e6553b1a599c452fb
+    projectPath: Library\Artifacts\f5\f52c03dc2ef5650e6553b1a599c452fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fb\fb2b50212493032f70ff3e1509bfc28d
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\fb\fb2b50212493032f70ff3e1509bfc28d
+    projectPath: Library\Artifacts\fb\fb2b50212493032f70ff3e1509bfc28d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fb\fb2e2108e89f59c891517afa02e39fc6
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\fb\fb2e2108e89f59c891517afa02e39fc6
+    projectPath: Library\Artifacts\fb\fb2e2108e89f59c891517afa02e39fc6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fd\fdd46480cc6027c8cfd55d5e70a0f6b9
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\fd\fdd46480cc6027c8cfd55d5e70a0f6b9
+    projectPath: Library\Artifacts\fd\fdd46480cc6027c8cfd55d5e70a0f6b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fd\fdda4972e478dcd8c77f746ef3c5f511
+    fullPath: E:\Documents\Unity Projects\Egress\Library\Artifacts\fd\fdda4972e478dcd8c77f746ef3c5f511
+    projectPath: Library\Artifacts\fd\fdda4972e478dcd8c77f746ef3c5f511
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -70,15 +316,333 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: E:\Documents\Unity Projects\Egress\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ProtocolInstance.json
+    fullPath: E:\Documents\Unity Projects\Egress\Library\ProtocolInstance.json
+    projectPath: Library\ProtocolInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: E:\Documents\Unity Projects\Egress\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: E:\Documents\Unity Projects\Egress\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: E:\Documents\Unity Projects\Egress\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: E:\Documents\Unity Projects\Egress\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: E:\Documents\Unity Projects\Egress\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: E:\Documents\Unity Projects\Egress\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0.log
+    fullPath: E:\Documents\Unity Projects\Egress\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: E:\Documents\Unity Projects\Egress\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: E:\Documents\Unity Projects\Egress\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\ConsoleProRemote.csprojAssemblyReference.cache
+    fullPath: E:\Documents\Unity Projects\Egress\obj\Debug\ConsoleProRemote.csprojAssemblyReference.cache
+    projectPath: obj\Debug\ConsoleProRemote.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\EnhancedHierarchyEditor.csprojAssemblyReference.cache
+    fullPath: E:\Documents\Unity Projects\Egress\obj\Debug\EnhancedHierarchyEditor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\EnhancedHierarchyEditor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: E:\Documents\Unity Projects\Egress\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Assembly-CSharp.dll.hash
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\Assembly-CSharp.dll.hash
+    projectPath: Temp\Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Assembly-CSharp-Editor.dll.hash
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\Assembly-CSharp-Editor.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\CompilationLog.txt
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0115c15d5e2da554dbb38439e045aefc
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-0115c15d5e2da554dbb38439e045aefc
+    projectPath: Temp\UnityTempFile-0115c15d5e2da554dbb38439e045aefc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-068e14324f12f784483f4b54539bf1c8
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-068e14324f12f784483f4b54539bf1c8
+    projectPath: Temp\UnityTempFile-068e14324f12f784483f4b54539bf1c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-095fba2ffad770545a6f12696eee89ce
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-095fba2ffad770545a6f12696eee89ce
+    projectPath: Temp\UnityTempFile-095fba2ffad770545a6f12696eee89ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0ba4e14ca7db03a479154feb0e5f3109
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-0ba4e14ca7db03a479154feb0e5f3109
+    projectPath: Temp\UnityTempFile-0ba4e14ca7db03a479154feb0e5f3109
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-138b710a012473947bb853c6a565f152
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-138b710a012473947bb853c6a565f152
+    projectPath: Temp\UnityTempFile-138b710a012473947bb853c6a565f152
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1564061c0b017364c87f2636f587cf3c
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-1564061c0b017364c87f2636f587cf3c
+    projectPath: Temp\UnityTempFile-1564061c0b017364c87f2636f587cf3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-18555bf8ccf281e43996c5cafa28d4f2
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-18555bf8ccf281e43996c5cafa28d4f2
+    projectPath: Temp\UnityTempFile-18555bf8ccf281e43996c5cafa28d4f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-28de3c900f9af25479eb063e20851f66
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-28de3c900f9af25479eb063e20851f66
+    projectPath: Temp\UnityTempFile-28de3c900f9af25479eb063e20851f66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5d456fd0ec35bbd449e9eeb5a872ea13
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-5d456fd0ec35bbd449e9eeb5a872ea13
+    projectPath: Temp\UnityTempFile-5d456fd0ec35bbd449e9eeb5a872ea13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-60187126a412f5045848dfa1a732ee77
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-60187126a412f5045848dfa1a732ee77
+    projectPath: Temp\UnityTempFile-60187126a412f5045848dfa1a732ee77
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-60b24d8449441a941907dcafb7211621
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-60b24d8449441a941907dcafb7211621
+    projectPath: Temp\UnityTempFile-60b24d8449441a941907dcafb7211621
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6b2eb111773b24f4c9b0c953e7df21a0
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-6b2eb111773b24f4c9b0c953e7df21a0
+    projectPath: Temp\UnityTempFile-6b2eb111773b24f4c9b0c953e7df21a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6f1504d3f98cb874392bb686dff14c7c
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-6f1504d3f98cb874392bb686dff14c7c
+    projectPath: Temp\UnityTempFile-6f1504d3f98cb874392bb686dff14c7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-71871cc9f7ebbc24c8aeee6c025a29bf
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-71871cc9f7ebbc24c8aeee6c025a29bf
+    projectPath: Temp\UnityTempFile-71871cc9f7ebbc24c8aeee6c025a29bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-77064960610dfbf46aefe17c27038fe3
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-77064960610dfbf46aefe17c27038fe3
+    projectPath: Temp\UnityTempFile-77064960610dfbf46aefe17c27038fe3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-89bed0b7a45dc2e4cae5ffaf6b0157ae
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-89bed0b7a45dc2e4cae5ffaf6b0157ae
+    projectPath: Temp\UnityTempFile-89bed0b7a45dc2e4cae5ffaf6b0157ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-93d81b848029cd24c86e53e63cda2b4b
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-93d81b848029cd24c86e53e63cda2b4b
+    projectPath: Temp\UnityTempFile-93d81b848029cd24c86e53e63cda2b4b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-94179bfe18ec57443b349d00d5f0b727
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-94179bfe18ec57443b349d00d5f0b727
+    projectPath: Temp\UnityTempFile-94179bfe18ec57443b349d00d5f0b727
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-981e894c943e8774e95a76963a03eff2
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-981e894c943e8774e95a76963a03eff2
+    projectPath: Temp\UnityTempFile-981e894c943e8774e95a76963a03eff2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9eff92ab141403847b0b82c53d7ae270
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-9eff92ab141403847b0b82c53d7ae270
+    projectPath: Temp\UnityTempFile-9eff92ab141403847b0b82c53d7ae270
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a080fbf6beaf9ea4788314a460cfa7bf
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-a080fbf6beaf9ea4788314a460cfa7bf
+    projectPath: Temp\UnityTempFile-a080fbf6beaf9ea4788314a460cfa7bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a2e9e3dfa9b014c4bac4fc6d4d8e6461
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-a2e9e3dfa9b014c4bac4fc6d4d8e6461
+    projectPath: Temp\UnityTempFile-a2e9e3dfa9b014c4bac4fc6d4d8e6461
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ab1845d8b16681a4cb57974fb3fe8187
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-ab1845d8b16681a4cb57974fb3fe8187
+    projectPath: Temp\UnityTempFile-ab1845d8b16681a4cb57974fb3fe8187
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b233232b67c196f4db84d66eaf8acac9
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-b233232b67c196f4db84d66eaf8acac9
+    projectPath: Temp\UnityTempFile-b233232b67c196f4db84d66eaf8acac9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b2b57bcffaf152e43a4f22a131b314b3
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-b2b57bcffaf152e43a4f22a131b314b3
+    projectPath: Temp\UnityTempFile-b2b57bcffaf152e43a4f22a131b314b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bae06300f29e4fb4090b3849d37bf553
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-bae06300f29e4fb4090b3849d37bf553
+    projectPath: Temp\UnityTempFile-bae06300f29e4fb4090b3849d37bf553
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bdea01c40a8c46c42aa49a04ee762cb2
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-bdea01c40a8c46c42aa49a04ee762cb2
+    projectPath: Temp\UnityTempFile-bdea01c40a8c46c42aa49a04ee762cb2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c1176b76178bb1a48921c207cf6a80ac
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-c1176b76178bb1a48921c207cf6a80ac
+    projectPath: Temp\UnityTempFile-c1176b76178bb1a48921c207cf6a80ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c556274028ea7454c8e6e08c3b60496c
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-c556274028ea7454c8e6e08c3b60496c
+    projectPath: Temp\UnityTempFile-c556274028ea7454c8e6e08c3b60496c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ccac3cf402443a04a9ebcbbdb1871616
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-ccac3cf402443a04a9ebcbbdb1871616
+    projectPath: Temp\UnityTempFile-ccac3cf402443a04a9ebcbbdb1871616
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e39cfa1d66b917744ba87624b7ec5492
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-e39cfa1d66b917744ba87624b7ec5492
+    projectPath: Temp\UnityTempFile-e39cfa1d66b917744ba87624b7ec5492
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f2e62cda26a9cde469be8a4c598e8f72
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-f2e62cda26a9cde469be8a4c598e8f72
+    projectPath: Temp\UnityTempFile-f2e62cda26a9cde469be8a4c598e8f72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f4c7238f5d05f6d42b779eaf13432032
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-f4c7238f5d05f6d42b779eaf13432032
+    projectPath: Temp\UnityTempFile-f4c7238f5d05f6d42b779eaf13432032
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f6a43b71ef1448549ab032d35fb4763a
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-f6a43b71ef1448549ab032d35fb4763a
+    projectPath: Temp\UnityTempFile-f6a43b71ef1448549ab032d35fb4763a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f8016047e00139648bd95e62b5aff023
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-f8016047e00139648bd95e62b5aff023
+    projectPath: Temp\UnityTempFile-f8016047e00139648bd95e62b5aff023
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fdc610a4c730a5c418b050f1725c8cf3
+    fullPath: E:\Documents\Unity Projects\Egress\Temp\UnityTempFile-fdc610a4c730a5c418b050f1725c8cf3
+    projectPath: Temp\UnityTempFile-fdc610a4c730a5c418b050f1725c8cf3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

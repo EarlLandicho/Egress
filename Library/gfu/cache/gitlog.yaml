@@ -13,9 +13,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-03-22T13:40:41.957-05:00
+  lastUpdatedAtString: 2021-03-22T15:30:51.249-05:00
   initializedAtString: 2021-03-22T13:30:36.838-05:00
   log:
+  - commitID: 45167e32396105066cb7e4cb68435e194de7099f
+    mergeA: 
+    mergeB: 
+    authorName: Earl Landicho
+    authorEmail: earldaniellandicho@gmail.com
+    commitEmail: earldaniellandicho@gmail.com
+    commitName: Earl Landicho
+    summary: Adding more stuff
+    description: 
+    timeString: 2021-03-22T13:44:37.000-05:00
+    commitTimeString: 2021-03-22T13:44:37.000-05:00
+    changes:
+    - path: .idea\.name
+      fullPath: E:\Documents\Unity Projects\Egress\.idea\.name
+      projectPath: .idea\.name
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .idea\vcs.xml
+      fullPath: E:\Documents\Unity Projects\Egress\.idea\vcs.xml
+      projectPath: .idea\vcs.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .idea\workspace.xml
+      fullPath: E:\Documents\Unity Projects\Egress\.idea\workspace.xml
+      projectPath: .idea\workspace.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: E:\Documents\Unity Projects\Egress\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Documents\Unity Projects\Egress\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\Documents\Unity Projects\Egress\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Documents\Unity Projects\Egress\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Documents\Unity Projects\Egress\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Documents\Unity Projects\Egress\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\Documents\Unity Projects\Egress\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: bce1f88a6360371340b15ab228db4846f72b0288
     mergeA: 
     mergeB: 

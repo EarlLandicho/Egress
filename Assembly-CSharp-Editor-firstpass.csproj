@@ -290,17 +290,11 @@
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>E:/Documents/Unity Projects/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="ConsolePro.Editor">
- <HintPath>E:/Documents/Unity Projects/Egress/Assets/ConsolePro/Editor/ConsolePro.Editor.dll</HintPath>
- </Reference>
- <Reference Include="RainbowCore">
- <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/RainbowAssets/!Core/Assemblies/RainbowCore.dll</HintPath>
- </Reference>
- <Reference Include="RainbowFolders">
- <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/RainbowAssets/RainbowFolders/Editor/Assemblies/RainbowFolders.dll</HintPath>
- </Reference>
  <Reference Include="GitHub.Logging">
  <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+ </Reference>
+ <Reference Include="ConsolePro.Editor">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/ConsolePro/Editor/ConsolePro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="sfw.net">
  <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
@@ -313,6 +307,12 @@
  </Reference>
  <Reference Include="GitHub.Api.45">
  <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+ </Reference>
+ <Reference Include="RainbowCore">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/RainbowAssets/!Core/Assemblies/RainbowCore.dll</HintPath>
+ </Reference>
+ <Reference Include="RainbowFolders">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/RainbowAssets/RainbowFolders/Editor/Assemblies/RainbowFolders.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
  <HintPath>E:/Documents/Unity Projects/Egress/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
