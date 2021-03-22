@@ -297,6 +297,21 @@
  <Reference Include="RainbowFolders">
  <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/RainbowAssets/RainbowFolders/Editor/Assemblies/RainbowFolders.dll</HintPath>
  </Reference>
+ <Reference Include="GitHub.Logging">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+ </Reference>
+ <Reference Include="sfw.net">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+ </Reference>
+ <Reference Include="GitHub.Unity.45">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+ </Reference>
+ <Reference Include="GitHub.UnityShim">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+ </Reference>
+ <Reference Include="GitHub.Api.45">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>E:/Documents/Unity Projects/2020.3.0f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
  </Reference>

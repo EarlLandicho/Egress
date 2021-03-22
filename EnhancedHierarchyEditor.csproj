@@ -52,39 +52,39 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Tag.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\IconData.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Styles.cs" />
      <Compile Include="Assets\Enhanced Hierarchy\Editor\ProfilerSample.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\ReflectionHelper.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Styles.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Layer.cs" />
      <Compile Include="Assets\Enhanced Hierarchy\Editor\PreferencesGUI.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\SoundIcon.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Memory.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\PrefItem.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\LogEntry.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Disposables.cs" />
      <Compile Include="Assets\Enhanced Hierarchy\Editor\Reflected.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\EnhancedHierarchy.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Warnings.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\RendererToggle.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Tag.cs" />
      <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Active.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\IconData.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\SoundIcon.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\EnhancedHierarchy.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Enumerations.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\HierarchyInfo.cs" />
      <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\IconList.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Utility.cs" />
      <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Lock.cs" />
      <Compile Include="Assets\Enhanced Hierarchy\Editor\MiniLabels\LayerMiniLabel.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\PrefItem.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\HierarchyInfo.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Static.cs" />
      <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\PrefabApply.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\LogEntry.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Memory.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\After.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Layer.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Utility.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\MiniLabels\TagMiniLabel.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\IconBase.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\None.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\MiniLabels\MiniLabelProvider.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\MiniLabels\SortingLayerMiniLabel.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\RendererToggle.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Disposables.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Warnings.cs" />
      <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\GameObjectIcon.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\ReflectionHelper.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\IconBase.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\After.cs" />
      <Compile Include="Assets\Enhanced Hierarchy\Editor\Preferences.cs" />
-     <Compile Include="Assets\Enhanced Hierarchy\Editor\Enumerations.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\None.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\MiniLabels\SortingLayerMiniLabel.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\MiniLabels\TagMiniLabel.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\MiniLabels\MiniLabelProvider.cs" />
+     <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\Static.cs" />
      <Compile Include="Assets\Enhanced Hierarchy\Editor\Icons\MonoBehaviourIcon.cs" />
      <None Include="Assets\Enhanced Hierarchy\Editor\EnhancedHierarchy.asmdef" />
  <Reference Include="UnityEngine">
@@ -329,6 +329,21 @@
  </Reference>
  <Reference Include="RainbowFolders">
  <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/RainbowAssets/RainbowFolders/Editor/Assemblies/RainbowFolders.dll</HintPath>
+ </Reference>
+ <Reference Include="GitHub.Logging">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+ </Reference>
+ <Reference Include="sfw.net">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+ </Reference>
+ <Reference Include="GitHub.Unity.45">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+ </Reference>
+ <Reference Include="GitHub.UnityShim">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+ </Reference>
+ <Reference Include="GitHub.Api.45">
+ <HintPath>E:/Documents/Unity Projects/Egress/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
  <HintPath>E:/Documents/Unity Projects/Egress/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
